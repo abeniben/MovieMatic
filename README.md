@@ -3,7 +3,6 @@
 A responsive movie search app built with React and Tailwind CSS, powered by the TMDB API.
 
 [![Live Demo](https://img.shields.io/badge/demo-Vercel-blue)](https://moviematic.vercel.app)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 
 
@@ -38,3 +37,4 @@ A responsive movie search app built with React and Tailwind CSS, powered by the 
 2. Deploy:
   ```bash
   npm run build
+  # Drag /dist to Netlify or use Vercel CLI
